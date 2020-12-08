@@ -8,3 +8,6 @@
 
 ## ATMEGA328 pinout
 ![atmega328 Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/atmega328_pinout.png?raw=true)
+
+## USB ASP
+![usb_asp Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/USBPINOUT.jpg?raw=true)
