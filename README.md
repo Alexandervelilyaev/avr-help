@@ -11,3 +11,5 @@
 
 ## USB ASP
 ![usb_asp Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/USBPINOUT.jpg?raw=true)
+
+## Manual [USBASP programmer](manuals/USBASP-UG.pdf)).
