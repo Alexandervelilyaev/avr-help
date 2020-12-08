@@ -13,4 +13,6 @@
 ## USB ASP
 ![usb_asp Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/USBPINOUT.jpg?raw=true)
 
-## Manual [USBASP programmer](manuals/USBASP-UG.pdf).
+## Manual [USBasp programmer manual](manuals/USBASP-UG.pdf).
+## Driver for Windows [USBasp programmer_driver](soft/USBasp-win-driver-x86-x64-v3.0.7.zip).
+## Tool for firmware for Windows [AVRDude](soft/avrdudeprog33.zip).
