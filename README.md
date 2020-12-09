@@ -10,6 +10,9 @@
 ## ATMEGA328 pinout
 ![atmega328 Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/atmega328_pinout.png?raw=true)
 
+## Arduino nano pinout with icsp
+![arduino_nano Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/arduino%20nano%20with%20icsp.png?raw=true)
+
 ## USB ASP
 ![usb_asp Banner](https://github.com/Alexandervelilyaev/hardware-help/blob/master/images/USBPINOUT.jpg?raw=true)
 
